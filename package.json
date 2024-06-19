@@ -25,7 +25,7 @@
     "branches": [
       "main"
     ],
-    "repositoryUrl": "https://github.com/robjo82/ci-template.git",
+    "repositoryUrl": "https://github.com/MathieuSymphorien/ci-template.git",
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",

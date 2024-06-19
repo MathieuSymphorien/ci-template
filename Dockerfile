@@ -7,7 +7,7 @@
 # FROM ruby:2.7
 FROM <langage>:<version>
 
-LABEL authors="Robin"
+LABEL authors="Mathieu"
 
 # Installez les dépendances globales ou les outils nécessaires
 # RUN npm install -g <outil>

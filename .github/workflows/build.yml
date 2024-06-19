@@ -29,8 +29,8 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         with:
           args: >
-            -Dsonar.projectKey=robjo82_ci-template
-            -Dsonar.organization=robjo82
+            -Dsonar.projectKey=MathieuSymphorien_ci-template
+            -Dsonar.organization=MathieuSymphorien
 
       - name: Semantic Release
         run: npm run semantic-release
